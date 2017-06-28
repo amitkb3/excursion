@@ -1,0 +1,36 @@
+body {
+  font-family:Verdana;
+  background: black;
+  text-align:center;
+  color:white;
+}
+
+h1, h2, p {
+  color: white;
+}
+
+.cta {
+  color:Aquamarine;
+  font-size:16px;
+}
+
+h1 {
+  font-weight:normal;
+  font-size:50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size=42px;
+}
+
+p {
+  color:gray;
+  font-size:21px;
+}
+
+.copyright {
+  text-align:right;
+  color:gray;
+  font-size:21px;
+}
